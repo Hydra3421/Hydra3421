@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hydra3421
-- 👀 I’m interested in js
-- 🌱 I’m currently learning js
+- 👀 I’m interested in python, ahk and js
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
